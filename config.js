@@ -5,7 +5,7 @@ const siteConfig = {
   repositoryName: "", // GitHub 저장소 이름
   mainColor: "#2B7849", // 사이트의 주 색상
   textColor: "#000000", // 기본 텍스트 색상
-  blogTitle: "Branch", // 블로그 제목
+  blogTitle: "준서의 에너지 발전소", // 블로그 제목
 };
 
 // 여러명의 저자가 글을 쓸 경우 프로필 설정, default는 0번째 사용자
